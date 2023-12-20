@@ -1,7 +1,5 @@
 # lostTechTest
 
-A new Flutter project.
+An app to match an object lost to its owner. Have you lost something in a public place ? Search for it in our database of lost objects.  
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+# Overview
