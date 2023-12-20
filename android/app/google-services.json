@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405627080645",
+    "project_id": "losttechtest",
+    "storage_bucket": "losttechtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405627080645:android:7a43913a5b0330d0b085ac",
+        "android_client_info": {
+          "package_name": "com.mycompany.losttechtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNMvHyrI8kzLZPY_TTBveiaBNo-ALpVR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
